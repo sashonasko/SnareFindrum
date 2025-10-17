@@ -30,7 +30,6 @@ namespace BLL
 
         }
         public void EraseAudio() {
-         
             player.URL = "";
 
 
