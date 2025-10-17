@@ -8,6 +8,7 @@ namespace SnareFindrums
 {
     internal static class Program
     {
+        // Test test tes
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
