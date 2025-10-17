@@ -1,0 +1,11 @@
+D:\Programming\SnareFindrums\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Programming\SnareFindrums\DAL\bin\Debug\net8.0\DAL.dll
+D:\Programming\SnareFindrums\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\DAL.dll
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Programming\SnareFindrums\DAL\obj\Debug\net8.0\ref\DAL.dll

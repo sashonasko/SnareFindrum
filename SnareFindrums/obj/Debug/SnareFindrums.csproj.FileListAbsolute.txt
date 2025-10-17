@@ -1,0 +1,12 @@
+D:\Programming\SnareFindrums\SnareFindrums\bin\Debug\SnareFindrums.exe.config
+D:\Programming\SnareFindrums\SnareFindrums\bin\Debug\SnareFindrums.exe
+D:\Programming\SnareFindrums\SnareFindrums\bin\Debug\SnareFindrums.pdb
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.csproj.AssemblyReference.cache
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\Interop.WMPLib.dll
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.csproj.ResolveComReference.cache
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.Form1.resources
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.Properties.Resources.resources
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.csproj.GenerateResource.cache
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.csproj.CoreCompileInputs.cache
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.exe
+D:\Programming\SnareFindrums\SnareFindrums\obj\Debug\SnareFindrums.pdb

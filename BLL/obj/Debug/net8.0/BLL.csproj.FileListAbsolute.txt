@@ -1,0 +1,17 @@
+D:\Programming\SnareFindrums\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Programming\SnareFindrums\BLL\bin\Debug\net8.0\BLL.dll
+D:\Programming\SnareFindrums\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Programming\SnareFindrums\BLL\bin\Debug\net8.0\DAL.dll
+D:\Programming\SnareFindrums\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\Interop.WMPLib.dll
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.csproj.ResolveComReference.cache
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.dll
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Programming\SnareFindrums\BLL\obj\Debug\net8.0\ref\BLL.dll
