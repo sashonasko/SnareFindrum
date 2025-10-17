@@ -19,7 +19,7 @@ namespace BLL
            
             player.URL = adress.AudioAdress[n];
             player.controls.play();
-         
+            Console.Write(" ");
 
         }
         public void StopAudio()
